@@ -1,0 +1,14 @@
+{
+  "require": {
+    "catfan/medoo": "^1.5",
+    "slim/slim": "^3.10",
+    "ext-PDO": "^7.2",
+    "ext-pdo_mysql": "^7.2",
+    "ext-json": "^1.6"
+  },
+  "autoload": {
+    "psr-0": {
+      "CCHits\\": "v3.0"
+    }
+  }
+}
